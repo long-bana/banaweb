@@ -1,0 +1,11 @@
+
+> ant-design-pro@4.5.0 start
+> cross-env UMI_ENV=dev umi dev
+
+Starting the development server...
+
+> ant-design-pro@4.5.0 start
+> cross-env UMI_ENV=dev umi dev
+
+Starting the development server...
+ℹ Compiling Webpack
